@@ -1,2 +1,3 @@
 Alvin resolusi
 -konsisten belajar pemrograman 2jam setiap hari
+-belajar java
