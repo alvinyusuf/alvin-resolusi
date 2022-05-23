@@ -1,0 +1,8 @@
+RENCANA BELAJAR ALVIN
+
+-Laravel
+-Membuat web dengan laravel
+-Membuat web portofolio
+  *menggunakan framework laravel
+  *full css dan js
+  *web dinamis
