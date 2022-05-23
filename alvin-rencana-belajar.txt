@@ -6,6 +6,6 @@ RENCANA BELAJAR ALVIN
   *menggunakan framework laravel
   *menggunakan framework node.js
   *full css dan js
-  *web dinamis
   *web responsif
 -Mengupload web ke sever online
+-Belajar AI
