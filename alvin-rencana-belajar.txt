@@ -7,3 +7,4 @@ RENCANA BELAJAR ALVIN
   *full css dan js
   *web dinamis
   *web responsif
+-Mengupload web ke sever online
