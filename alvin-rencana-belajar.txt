@@ -6,3 +6,4 @@ RENCANA BELAJAR ALVIN
   *menggunakan framework laravel
   *full css dan js
   *web dinamis
+  *web responsif
